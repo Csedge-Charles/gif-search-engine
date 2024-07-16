@@ -1,0 +1,8 @@
+#giphy{
+    display:flex;
+    justify-content: center;
+    padding:50px;
+    left:50%;
+    top:50%;
+    border:200px;
+}
